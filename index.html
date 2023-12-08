@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="生活, 我的生活我做主, redefine, 重定义, 小张的博客">
+    <meta name="description" content="小张的博客, 我的生活我做主">
+    <meta name="author" content="静凇">
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta name="revisit-after" content="1 days">
+    <link rel="canonical" href="https://example.com/"/>
+    <link rel="icon" type="image/png" href="./img/R1.png" sizes="192x192">
+    <link rel="shortcut icon" href="./img/R1.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/R1.png">
+    <title>Redefine - 我的生活我做主!</title>
+    <style>
+        body {
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f5f5f5;
+        }
+
+        #message_box span {
+            font-size: 1.2rem;
+            font-family: '微软雅黑', serif;
+        }
+    </style>
+</head>
+<body>
+<div id="message_box">
+    <span id="message">别看了，啥都没有！</span>
+</div>
+<script type="text/javascript">
+    let messages = ["嗨！别来无恙啊！", "别看了，啥都没有！", "The quick brown fox jumps over a lazy dog."];
+    let index = Math.floor(Math.random() * 100) % messages.length;
+    let msg_box = document.getElementById('message');
+    msg_box.innerHTML = messages[index];
+</script>
+</body>
+</html>
