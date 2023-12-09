@@ -1,24 +1,15 @@
 <div align="center">
     <img src="./img/R2.png" alt="Redefine" width="512"/>
-    <br><br>
-    <p align="center">
-        <a href="https://img.shields.io/badge/-Windows-blue?logo=windows" target="_blank"
-           style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-Windows-blue?logo=windows" alt="Windows">
-        </a>
-        <a href="https://img.shields.io/badge/-MacOS-black?logo=apple" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-MacOS-black?logo=apple" alt="Linux">
-        </a>
-        <a href="https://img.shields.io/badge/-Linux-333?logo=ubuntu" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-Linux-333?logo=ubuntu" alt="MacOS">
-        </a>
-        <a href="https://github.com/vergecurrency/verge/releases/latest" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/github/license/Zhang-Yirui/Redefine" alt="GitHub license">
-        </a>
-    </p>
 </div>
 
 
+[![Linux](https://img.shields.io/badge/-Linux-333?logo=ubuntu)](https://img.shields.io/badge/-Linux-333?logo=ubuntu)
+[![MaxOS](https://img.shields.io/badge/-MacOS-black?logo=apple)](https://img.shields.io/badge/-MacOS-black?logo=apple)
+[![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows)](https://img.shields.io/badge/-Windows-blue?logo=windows)
+[![Web](https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge)](https://blog.redefine.top)
+[![GitHub license](https://img.shields.io/github/license/Zhang-Yirui/Redefine)](https://github.com/Zhang-Yirui/Redefine/blob/main/LICENSE)
+[![Browser](https://img.shields.io/badge/Browser-Safari-orange?logo=safari)](https://blog.redefine.top)
 
 
 # 别看了，啥都木有！
+
